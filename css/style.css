@@ -25,6 +25,10 @@ h1 {
     padding: 0;
 }
 
+h3 {
+    font-size: 16px;
+}
+
 header p {
     padding: 0;
     margin-top:5px;
@@ -37,9 +41,11 @@ section {
 input[type='submit'] {
     background: #0679e6;
     color: white;
-    border: 0;
+    border: 5;
+    height: 45px;
     padding: 10px 15px;
     cursor: pointer;
+    font-size: 14px;
 }
 
 #results h3 {
